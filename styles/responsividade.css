@@ -52,3 +52,17 @@
     }
   }
 }
+
+@media (750px <= width) {
+  #hero {
+    & nav {
+      padding: 2.5rem;
+    }
+
+    & h1 + h1,
+    p + p,
+    img + img {
+      display: none;
+    }
+  }
+}
