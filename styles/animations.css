@@ -1,0 +1,17 @@
+@keyframes appear {
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes bg {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}

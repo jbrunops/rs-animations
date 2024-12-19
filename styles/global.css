@@ -7,6 +7,8 @@
 }
 
 :root {
+  zoom: 0.7;
+
   /* Coress */
   --pink-base: #9547a5;
   --pink-dark: #7d298a;

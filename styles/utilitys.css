@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.desktop-only {
+  display: none;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
